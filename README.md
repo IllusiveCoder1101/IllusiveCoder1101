@@ -101,4 +101,4 @@ Sankalpa Sarkar, Samriddhi Kashyap, Advait Joglekar, Srinivasan Umesh — *IWSLT
 ### 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sankalpa-sarkar-08331036b)
-[![Gmail](https://img.shields.io/badge/Email-snklpsrkr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snklpsrkr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-22f3003030@ds.study.iitm.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snklpsrkr@gmail.com)
