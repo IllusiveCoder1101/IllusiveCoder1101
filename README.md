@@ -40,8 +40,6 @@ Full-stack inventory system for Army Public School with bulk Excel import/export
 **Full Stack Manga Store Management System** — `Flask` `SQLite` `Vue` `Redis` `Celery`
 Full-stack library system with RBAC, admin analytics dashboard, scheduled Celery jobs, and Redis caching that nearly doubled API performance.
 
-> 📌 *Add repo links here, e.g.* `[APS Inventory System](your-repo-link)`
-
 ---
 
 ### 📄 Publication
